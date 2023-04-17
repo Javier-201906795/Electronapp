@@ -1,0 +1,23 @@
+{
+  "name": "Electronapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javier-201906795/Electronapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javier-201906795/Electronapp/issues"
+  },
+  "homepage": "https://github.com/Javier-201906795/Electronapp#readme",
+  "dependencies": {
+    "electron": "^24.1.2"
+  }
+}
